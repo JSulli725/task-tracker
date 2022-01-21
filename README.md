@@ -1,3 +1,10 @@
+This app uses Json server to store Task data so this must be running.
+
+1. in your terminal, nav to the root directory of where you cloned the app
+2. type 'npm run server' in the terminal.
+3. type 'npm start' to start the app (dev mode)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
